@@ -1,1 +1,1 @@
-pip install git+https://github.com/x7007x/TGramBot.git
+pip install https://github.com/x7007x/TGramBot.git
